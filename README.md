@@ -29,8 +29,6 @@ click `Launch Desktop`
 
 You'll see a funky desktop. Right click somewhere and select `Open Terminal Here`
 
-<img width="328" alt="image" src="https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/83095585-1966-4aa5-b76a-f9a0d9db2978">
-
 
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/6e4f1044-41d8-469b-b112-fcb868d12009)
 
