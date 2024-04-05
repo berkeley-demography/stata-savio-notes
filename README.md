@@ -9,7 +9,7 @@ Select `Interactive Apps > Desktop`
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/87200dce-e07e-4574-add7-33fa9e2c90d0)
 
 
-## Schedule your job:
+## Scheduling
 
 [![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/34fed54f-f0ee-43ae-9e20-4d5fb5932c08)
 ](https://files.slack.com/files-tmb/T04D70QSMFG-F06SZUCKQTF-c2ac974021/image_720.png)
@@ -44,7 +44,7 @@ Stata!
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/5ddc4cd3-2678-4704-a401-d9eb17d4d9c4)
 
 
-## Transferring data around
+## Transferring data 
 
 I have some documentation on how to move things around: https://pages.github.berkeley.edu/demography/computing-lab/research-computing.html#storing-and-transferring-data-on-savio
 
@@ -53,7 +53,7 @@ If you prefer not to use terminal, open on demand provides a nifty file interfac
 <img width="328" alt="image" src="https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/f45c53ee-1592-4a91-a3ea-e46ee54b72c9">
 
 
-<img width="1123" alt="image" src="https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/13ab59a3-86c9-4bb6-836b-a4d28441703c">
+<img width="1154" alt="image" src="https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/b6761c5f-f3db-45b8-87d0-4364fb2fe0e9">
 
 
 
