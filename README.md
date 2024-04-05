@@ -46,7 +46,7 @@ Stata!
 
 I have some documentation on how to move things around: https://pages.github.berkeley.edu/demography/computing-lab/research-computing.html#storing-and-transferring-data-on-savio
 
-If you prefer not to use terminal, open on demand provides a nifty file interface to upload and download to your home and scratch directories:
+If you prefer not to use terminal, open on demand provides a nifty file interface to upload (files > 1GB) and download to your home and scratch directories:
 
 <img width="328" alt="image" src="https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/f45c53ee-1592-4a91-a3ea-e46ee54b72c9">
 
