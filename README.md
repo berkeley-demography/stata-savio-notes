@@ -33,9 +33,11 @@ You'll see a funky desktop. Right click somewhere and select `Open Terminal Here
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/6e4f1044-41d8-469b-b112-fcb868d12009)
 
 
-`cd` into `/global/home/groups/fc_demog/stata18` and run `./xstata-mp`
+<!--`cd` into `/global/home/groups/fc_demog/stata18` and run `./xstata-mp`
 
-![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/de74f6b1-8503-4d95-9a3d-5f1db6cc83d5)
+![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/de74f6b1-8503-4d95-9a3d-5f1db6cc83d5) -->
+
+run `./xstata-mp`
 
 Stata!
 
