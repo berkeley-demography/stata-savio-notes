@@ -9,6 +9,9 @@ Select `Interactive Apps > Desktop`
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/87200dce-e07e-4574-add7-33fa9e2c90d0)
 
 
+
+
+
 ## Scheduling
 
 [![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/34fed54f-f0ee-43ae-9e20-4d5fb5932c08)
@@ -23,6 +26,10 @@ You'll enter the queue. Lower wall clock times will have faster wait times but d
 click `Launch Desktop`
 
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/4a1435e2-a2e2-4c49-9d6b-46ea9fedda72)
+
+
+
+
 
 
 ## Remote Desktop
@@ -47,6 +54,8 @@ Stata!
 
 
 Be sure to set your working directory to your own home directory: `/global/home/users/<your-username>`
+
+
 
 
 
