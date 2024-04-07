@@ -33,15 +33,19 @@ You'll see a funky desktop. Right click somewhere and select `Open Terminal Here
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/6e4f1044-41d8-469b-b112-fcb868d12009)
 
 
-`cd` into `/global/home/groups/fc_demog/stata18` and run `./xstata-mp`
-
-![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/de74f6b1-8503-4d95-9a3d-5f1db6cc83d5) 
-
+add the Stata software to your $PATH variable: `PATH="/global/home/groups/fc_demog/stata18"`. From here you should be able to run `xstata-mp` from any directory.
 
 
 Stata!
 
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/5ddc4cd3-2678-4704-a401-d9eb17d4d9c4)
+
+
+- Troubleshooting note: if the above does not work and you cannot run `xstata-mp` then you can also `cd` into `/global/home/groups/fc_demog/stata18` and run `./xstata-mp`
+
+![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/de74f6b1-8503-4d95-9a3d-5f1db6cc83d5) 
+
+
 
 
 ## Transferring data 
