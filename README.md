@@ -53,7 +53,7 @@ Be sure to set your working directory to your own home directory: `/global/home/
 
 ## Transferring data 
 
-I have some documentation on how to move things around: https://pages.github.berkeley.edu/demography/computing-lab/research-computing.html#storing-and-transferring-data-on-savio
+Documentation on how to move things around: https://pages.github.berkeley.edu/demography/computing-lab/research-computing.html#storing-and-transferring-data-on-savio
 
 If you prefer not to use terminal, open on demand provides a nifty file interface to upload (smaller files < 1GB) and download to your home and scratch directories:
 
