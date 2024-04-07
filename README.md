@@ -46,6 +46,9 @@ Stata!
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/de74f6b1-8503-4d95-9a3d-5f1db6cc83d5) 
 
 
+Be sure to set your working directory to your own home directory: `/global/home/users/<your-username>`
+
+
 
 
 ## Transferring data 
