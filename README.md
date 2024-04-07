@@ -33,7 +33,7 @@ You'll see a funky desktop. Right click somewhere and select `Open Terminal Here
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/6e4f1044-41d8-469b-b112-fcb868d12009)
 
 
-add the Stata software to your $PATH variable: `PATH="/global/home/groups/fc_demog/stata18"`. From here you should be able to run `xstata-mp` from any directory.
+In the terminal, add the Stata software to your $PATH variable: `PATH="/global/home/groups/fc_demog/stata18"` and then type `export PATH`. From here you should be able to run `xstata-mp` from any directory.
 
 
 Stata!
