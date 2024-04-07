@@ -48,9 +48,9 @@ Stata!
 ![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/5ddc4cd3-2678-4704-a401-d9eb17d4d9c4)
 
 
-- Troubleshooting note: if the above does not work and you cannot run `xstata-mp` then you can also `cd` into `/global/home/groups/fc_demog/stata18` and run `./xstata-mp`
+<!--- Troubleshooting note: if the above does not work and you cannot run `xstata-mp` then you can also `cd` into `/global/home/groups/fc_demog/stata18` and run `./xstata-mp`
 
-![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/de74f6b1-8503-4d95-9a3d-5f1db6cc83d5) 
+![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/de74f6b1-8503-4d95-9a3d-5f1db6cc83d5) -->
 
 
 Be sure to set your working directory to your own home directory: `/global/home/users/<your-username>`
