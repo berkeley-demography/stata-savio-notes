@@ -21,11 +21,13 @@ Select `Interactive Apps > Desktop`
 
 You'll enter the queue. Lower wall clock times will have faster wait times but don't be shy about requesting more than you think you might need.
 
-![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/e0e1ce65-a545-4a4e-a11a-395b5aa55b88)
+![image](<img width="680" alt="image" src="https://github.com/user-attachments/assets/9c2f9851-163d-4205-8d5b-6cd3fad63dd4">
+)
 
 click `Launch Desktop`
 
-![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/4a1435e2-a2e2-4c49-9d6b-46ea9fedda72)
+![image](<img width="732" alt="image" src="https://github.com/user-attachments/assets/b61c76d1-7d2a-4370-aafa-a58a6d20bda0">
+)
 
 
 
