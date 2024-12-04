@@ -17,7 +17,7 @@ Select `Interactive Apps > Desktop`
 [![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/34fed54f-f0ee-43ae-9e20-4d5fb5932c08)
 ](https://files.slack.com/files-tmb/T04D70QSMFG-F06SZUCKQTF-c2ac974021/image_720.png)
 
-:point_up: The important fields are `SLURM Partition` and `Wall Clock Time` . Partition should be `savio2` or `savio3` . Wall clock time should be the number of hours you'd like for your session to run.
+:point_up: The important fields are `SLURM Partition` and `Wall Clock Time`. Partition should be `savio4_htc` . Wall clock time should be the number of hours you'd like for your session to run.
 
 You'll enter the queue. Lower wall clock times will have faster wait times but don't be shy about requesting more than you think you might need.
 
