@@ -14,9 +14,8 @@ Select `Interactive Apps > Desktop`
 
 ## Scheduling
 
-[![image](https://github.com/berkeley-demography/stata-savio-notes/assets/20607201/34fed54f-f0ee-43ae-9e20-4d5fb5932c08)
-](<img width="680" alt="image" src="https://github.com/user-attachments/assets/eb0903ff-e471-4532-9f0b-ca457ee6b626">
-)
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/933b0f70-f8da-4f9f-b8ce-103954480913" />
+
 
 :point_up: The important fields are `SLURM Partition` and `Wall Clock Time`. Partition should be `savio4_htc` . Wall clock time should be the number of hours you'd like for your session to run.
 
