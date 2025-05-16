@@ -41,6 +41,7 @@ You'll see a funky desktop. Right click somewhere and select `Open Terminal Here
 
 In the terminal, add the Stata software to your $PATH variable: `export PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/global/home/groups/fc_demog/stata18`
 
+type `xstata-mp` to launch the GUI
 
 
 Stata!
