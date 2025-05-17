@@ -58,7 +58,7 @@ Be sure to set your working directory to your own home directory: `/global/home/
 
 ## Using X Quartz on a Mac
 
-Sometimes the virtual desktop in incompatible with the version of Stata. Another way of accessing Demography's Stata on Savio is to the X-Forwarding. 
+Sometimes the virtual desktop in incompatible with the version of Stata. Another way of accessing Demography's Stata on Savio is to use X-Forwarding which will allow you to open a GUI running on a remote server like Savio directly on your own machine. 
 
 - Open a terminal and ssh into the log-in node using the -X flag:
 
