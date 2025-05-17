@@ -56,6 +56,21 @@ Stata!
 Be sure to set your working directory to your own home directory: `/global/home/users/<your-username>`
 
 
+## Using X Quartz on a Mac
+
+Sometimes the virtual desktop in incompatible with the version of Stata. Another way of accessing Demography's Stata on Savio is to the X-Forwarding. 
+
+- Open a terminal and ssh into the log-in node using the -X flag:
+
+`ssh -X {savio-username}@hpc.brc.berkeley.edu`
+
+- Start an interactive session on the htc4 node for an hour, tweak this command to your liking:
+
+`srun -A co_demography -p savio4_htc --qos demography_htc4_normal -t 01:00:00 --cpus-per-task 8 --pty bash`
+
+- Type `export PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/global/home/groups/fc_demog/stata18`
+
+type `xstata-mp` to launch the GUI
 
 
 
